@@ -1,0 +1,16 @@
+# Name:
+Curtis Edwards
+
+# Student Number:
+101346818
+
+# Description:
+This program prompts the user for pairwise data, using *scanf()*,
+which represents data collected during a ghost hunt.
+This data is then printed in a nice way using *printf()*.
+The data is also ordered using a sorting algorithm.
+
+# Compilation and Execution
+Assuming the files *main.c* and *readings.c* are in your current directory,
+entering  *gcc -Wall main.c readings.c -o a1* into the command line will create an executable file called *a1*.
+Entering *./a1* into the command line will run the program.
